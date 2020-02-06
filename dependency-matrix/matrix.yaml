@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/modernappsninja-jxbot/test26238.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: afewellvmware
+  repo: test26350
+  url: https://github.com/afewellvmware/test26350.git
+  version: ""
+  versionURL: ""
