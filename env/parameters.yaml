@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:opsdev-gkeuscen1/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: modernappsninja-jxbot@googlegroups.com
+  token: vault:opsdev-gkeuscen1/pipelineUser:token
+  username: modernappsninja-jxbot
+prow:
+  hmacToken: vault:opsdev-gkeuscen1/prow:hmacToken
