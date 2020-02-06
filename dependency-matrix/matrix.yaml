@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/afewellvmware/test-gradle-app-26202.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: afewellvmware
+  repo: test26235
+  url: https://github.com/afewellvmware/test26235.git
+  version: ""
+  versionURL: ""
