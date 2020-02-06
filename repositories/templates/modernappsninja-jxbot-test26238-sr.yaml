@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninja-jxbot
+    provider: github
+    repository: test26238
+  name: modernappsninja-jxbot-test26238
+spec:
+  description: Imported application for modernappsninja-jxbot/test26238
+  httpCloneURL: https://github.com/modernappsninja-jxbot/test26238.git
+  org: modernappsninja-jxbot
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test26238
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninja-jxbot/test26238.git
