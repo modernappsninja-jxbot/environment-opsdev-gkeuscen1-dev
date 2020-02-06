@@ -33,23 +33,25 @@ environments:
   key: dev
   repository: environment-opsdev-gkeuscen1-dev
 - ingress:
-    domain: ""
-    externalDNS: false
-    namespaceSubDomain: ""
+    cloud_dns_secret_name: external-dns-gcp-sa
+    domain: opsdev-gkeuscen1.modernapps.io
+    externalDNS: true
+    namespaceSubDomain: jxdev.
     tls:
-      email: ""
-      enabled: false
-      production: false
+      email: modernappsninja-jxbot@googlegroups.com
+      enabled: true
+      production: true
   key: staging
   repository: environment-opsdev-gkeuscen1-staging
 - ingress:
-    domain: ""
-    externalDNS: false
-    namespaceSubDomain: ""
+    cloud_dns_secret_name: external-dns-gcp-sa
+    domain: opsdev-gkeuscen1.modernapps.io
+    externalDNS: true
+    namespaceSubDomain: jxdev.
     tls:
-      email: ""
-      enabled: false
-      production: false
+      email: modernappsninja-jxbot@googlegroups.com
+      enabled: true
+      production: true
   key: production
   repository: environment-opsdev-gkeuscen1-production
 gitops: true
