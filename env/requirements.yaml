@@ -18,3 +18,6 @@ dependencies:
   repository: http://chartmuseum.jenkins-x.io
 - name: jenkins-x-platform
   repository: http://chartmuseum.jenkins-x.io
+- name: tmc-install-chart
+  repository: https://storage.googleapis.com/ninja-charts/
+  version: 0.1.0
