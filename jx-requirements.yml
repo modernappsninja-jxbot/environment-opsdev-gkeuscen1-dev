@@ -1,35 +1,90 @@
+autoUpdate:
+  enabled: false
+  schedule: ""
+bootConfigURL: https://github.com/ModernAppsNinja/jenkins-x-boot-config
 cluster:
-  clusterName: ""
-  environmentGitOwner: ""
-  environmentGitPublic: false
-  project: ""
+  azure: {}
+  clusterName: opsdev-gkeuscen1
+  devEnvApprovers:
+  - afewellvmware
+  - modernappsninja-jxbot
+  - modernappsio-admin
+  - modernappsninja-owners
+  environmentGitOwner: modernappsninja
+  environmentGitPublic: true
+  gitKind: github
+  gitName: github
+  gitServer: https://github.com
+  namespace: jx
+  project: usecasedev
   provider: gke
-  zone: ""
-gitops: true
+  registry: gcr.io
+  zone: us-central1-c
 environments:
-- key: dev
-- key: staging
-- key: production
+- ingress:
+    cloud_dns_secret_name: external-dns-gcp-sa
+    domain: opsdev-gkeuscen1.modernapps.io
+    externalDNS: true
+    namespaceSubDomain: jxdev.
+    tls:
+      email: modernappsninja-jxbot@googlegroups.com
+      enabled: true
+      production: true
+  key: dev
+  repository: environment-opsdev-gkeuscen1-dev
+- ingress:
+    cloud_dns_secret_name: external-dns-gcp-sa
+    domain: opsdev-gkeuscen1.modernapps.io
+    externalDNS: true
+    namespaceSubDomain: jxdev.
+    tls:
+      email: modernappsninja-jxbot@googlegroups.com
+      enabled: true
+      production: true
+  key: staging
+  repository: environment-opsdev-gkeuscen1-staging
+- ingress:
+    cloud_dns_secret_name: external-dns-gcp-sa
+    domain: opsdev-gkeuscen1.modernapps.io
+    externalDNS: true
+    namespaceSubDomain: jxdev.
+    tls:
+      email: modernappsninja-jxbot@googlegroups.com
+      enabled: true
+      production: true
+  key: production
+  repository: environment-opsdev-gkeuscen1-production
+gitops: true
 ingress:
-  domain: ""
-  externalDNS: false
+  cloud_dns_secret_name: external-dns-gcp-sa
+  domain: opsdev-gkeuscen1.modernapps.io
+  externalDNS: true
+  namespaceSubDomain: jxdev.
   tls:
-    email: ""
-    enabled: false
-    production: false
+    email: modernappsninja-jxbot@googlegroups.com
+    enabled: true
+    production: true
 kaniko: true
-secretStorage: local
+repository: nexus
+secretStorage: vault
 storage:
+  backup:
+    enabled: false
+    url: ""
   logs:
-    enabled: false
-    url: ""
+    enabled: true
+    url: gs://opsdev-gkeuscen1-logs-933fd10e-323c-4a54-b6ed-d0dda2034
   reports:
-    enabled: false
-    url: ""
+    enabled: true
+    url: gs://opsdev-gkeuscen1-reports-b99c56dc-1268-490d-a0a5-df07c5
   repository:
-    enabled: false
-    url: ""
+    enabled: true
+    url: gs://opsdev-gkeuscen1-repository-abe7de1e-5711-4595-8c85-0ec
+vault: {}
+velero:
+  schedule: ""
+  ttl: ""
 versionStream:
-  ref: "master"
+  ref: v1.0.339
   url: https://github.com/jenkins-x/jenkins-x-versions.git
 webhook: prow
