@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninja-jxbot
+    provider: github
+    repository: jx-app-harbor
+  name: modernappsninja-jxbot-jx-app-harbor
+spec:
+  description: Imported application for modernappsninja-jxbot/jx-app-harbor
+  httpCloneURL: https://github.com/modernappsninja-jxbot/jx-app-harbor.git
+  org: modernappsninja-jxbot
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-app-harbor
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninja-jxbot/jx-app-harbor.git
