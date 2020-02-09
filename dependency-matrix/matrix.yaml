@@ -30,12 +30,6 @@ dependencies:
   version: ""
   versionURL: ""
 - host: github.com
-  owner: modernappsninja-jxbot
-  repo: jx-app-harbor
-  url: https://github.com/modernappsninja-jxbot/jx-app-harbor.git
-  version: ""
-  versionURL: ""
-- host: github.com
   owner: afewellvmware
   repo: test-gradle-821
   url: https://github.com/afewellvmware/test-gradle-821.git
