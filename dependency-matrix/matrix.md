@@ -7,5 +7,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninja-jxbot/test26238](https://github.com/modernappsninja-jxbot/test26238.git) |  | []() | 
 [afewellvmware/test26350](https://github.com/afewellvmware/test26350.git) |  | []() | 
 [afewellvmware/test-jenkins-quickstart](https://github.com/afewellvmware/test-jenkins-quickstart.git) |  | []() | 
-[modernappsninja-jxbot/jx-app-harbor](https://github.com/modernappsninja-jxbot/jx-app-harbor.git) |  | []() | 
 [afewellvmware/test-gradle-821](https://github.com/afewellvmware/test-gradle-821.git) |  | []() | 
