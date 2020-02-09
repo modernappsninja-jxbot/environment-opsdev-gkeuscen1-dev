@@ -21,6 +21,3 @@ dependencies:
 - name: jx-app-replicator
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
   version: 1.0.16
-- name: harbor
-  repository: https://storage.googleapis.com/ninja-charts/
-  version: 1.3.0
