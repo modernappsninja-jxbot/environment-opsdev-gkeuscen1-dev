@@ -8,3 +8,4 @@ Dependency | Sources | Version | Mismatched versions
 [afewellvmware/test26350](https://github.com/afewellvmware/test26350.git) |  | []() | 
 [afewellvmware/test-jenkins-quickstart](https://github.com/afewellvmware/test-jenkins-quickstart.git) |  | []() | 
 [afewellvmware/test-gradle-821](https://github.com/afewellvmware/test-gradle-821.git) |  | []() | 
+[modernappsninja-jxbot/jx-app-formio-lite](https://github.com/modernappsninja-jxbot/jx-app-formio-lite.git) |  | []() | 
