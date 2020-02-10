@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: afewellvmware
+    provider: github
+    repository: node-test-1150
+  name: afewellvmware-node-test-1150
+spec:
+  description: Imported application for afewellvmware/node-test-1150
+  httpCloneURL: https://github.com/afewellvmware/node-test-1150.git
+  org: afewellvmware
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: node-test-1150
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/afewellvmware/node-test-1150.git
