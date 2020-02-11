@@ -53,3 +53,9 @@ dependencies:
   url: https://github.com/afewellvmware/node-test-1150.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: afewellvmware
+  repo: test-021020-0804
+  url: https://github.com/afewellvmware/test-021020-0804.git
+  version: ""
+  versionURL: ""
