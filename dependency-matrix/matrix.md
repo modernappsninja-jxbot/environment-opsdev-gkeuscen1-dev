@@ -13,3 +13,4 @@ Dependency | Sources | Version | Mismatched versions
 [afewellvmware/node-test-1150](https://github.com/afewellvmware/node-test-1150.git) |  | []() | 
 [afewellvmware/test-021020-0804](https://github.com/afewellvmware/test-021020-0804.git) |  | []() | 
 [afewellvmware/test-container-builder-1](https://github.com/afewellvmware/test-container-builder-1.git) |  | []() | 
+[kampfires/guide-builder](https://github.com/kampfires/guide-builder.git) |  | []() | 
