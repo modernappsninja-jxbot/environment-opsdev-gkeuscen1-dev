@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: test-appserver-quickstart-deployed
+  name: kampfires-test-appserver-quickstart-deployed
+spec:
+  description: Imported application for kampfires/test-appserver-quickstart-deployed
+  httpCloneURL: https://github.com/kampfires/test-appserver-quickstart-deployed.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test-appserver-quickstart-deployed
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/test-appserver-quickstart-deployed.git
