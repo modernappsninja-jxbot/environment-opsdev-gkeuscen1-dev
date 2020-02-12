@@ -15,3 +15,4 @@ Dependency | Sources | Version | Mismatched versions
 [afewellvmware/test-container-builder-1](https://github.com/afewellvmware/test-container-builder-1.git) |  | []() | 
 [kampfires/guide-builder](https://github.com/kampfires/guide-builder.git) |  | []() | 
 [kampfires/TEST-LAG-021220-0958](https://github.com/kampfires/TEST-LAG-021220-0958.git) |  | []() | 
+[kampfires/test-appserver-quickstart-deployed](https://github.com/kampfires/test-appserver-quickstart-deployed.git) |  | []() | 

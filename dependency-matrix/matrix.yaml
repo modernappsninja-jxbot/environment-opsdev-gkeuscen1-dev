@@ -77,3 +77,9 @@ dependencies:
   url: https://github.com/kampfires/TEST-LAG-021220-0958.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: test-appserver-quickstart-deployed
+  url: https://github.com/kampfires/test-appserver-quickstart-deployed.git
+  version: ""
+  versionURL: ""
