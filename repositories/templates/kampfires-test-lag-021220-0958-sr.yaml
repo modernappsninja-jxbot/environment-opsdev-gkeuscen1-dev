@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: TEST-LAG-021220-0958
+  name: kampfires-test-lag-021220-0958
+spec:
+  description: Imported application for kampfires/TEST-LAG-021220-0958
+  httpCloneURL: https://github.com/kampfires/TEST-LAG-021220-0958.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: TEST-LAG-021220-0958
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/TEST-LAG-021220-0958.git
