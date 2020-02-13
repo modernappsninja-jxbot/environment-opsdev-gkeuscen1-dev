@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: 2test-appserver-docker-helm
+  name: kampfires-2test-appserver-docker-helm
+spec:
+  description: Imported application for kampfires/2test-appserver-docker-helm
+  httpCloneURL: https://github.com/kampfires/2test-appserver-docker-helm.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: 2test-appserver-docker-helm
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/2test-appserver-docker-helm.git

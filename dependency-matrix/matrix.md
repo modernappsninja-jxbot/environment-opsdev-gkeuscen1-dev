@@ -16,3 +16,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/guide-builder](https://github.com/kampfires/guide-builder.git) |  | []() | 
 [kampfires/TEST-LAG-021220-0958](https://github.com/kampfires/TEST-LAG-021220-0958.git) |  | []() | 
 [kampfires/test-appserver-quickstart-deployed](https://github.com/kampfires/test-appserver-quickstart-deployed.git) |  | []() | 
+[kampfires/2test-appserver-docker-helm](https://github.com/kampfires/2test-appserver-docker-helm.git) |  | []() | 
