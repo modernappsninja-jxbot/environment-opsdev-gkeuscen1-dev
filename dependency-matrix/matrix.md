@@ -19,3 +19,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/2test-appserver-docker-helm](https://github.com/kampfires/2test-appserver-docker-helm.git) |  | []() | 
 [kampfires/3test-appserver-docker-helm](https://github.com/kampfires/3test-appserver-docker-helm.git) |  | []() | 
 [kampfires/1-test-guidebuilder](https://github.com/kampfires/1-test-guidebuilder.git) |  | []() | 
+[kampfires/41-labguide-test-quickstart](https://github.com/kampfires/41-labguide-test-quickstart.git) |  | []() | 

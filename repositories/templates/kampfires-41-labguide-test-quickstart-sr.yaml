@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: 41-labguide-test-quickstart
+  name: kampfires-41-labguide-test-quickstart
+spec:
+  description: Imported application for kampfires/41-labguide-test-quickstart
+  httpCloneURL: https://github.com/kampfires/41-labguide-test-quickstart.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: 41-labguide-test-quickstart
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/41-labguide-test-quickstart.git

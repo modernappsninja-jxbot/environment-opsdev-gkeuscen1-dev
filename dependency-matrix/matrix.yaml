@@ -101,3 +101,9 @@ dependencies:
   url: https://github.com/kampfires/1-test-guidebuilder.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: 41-labguide-test-quickstart
+  url: https://github.com/kampfires/41-labguide-test-quickstart.git
+  version: ""
+  versionURL: ""
