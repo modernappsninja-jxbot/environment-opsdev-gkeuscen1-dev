@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: kamper
+  name: kampfires-kamper
+spec:
+  description: Imported application for kampfires/kamper
+  httpCloneURL: https://github.com/kampfires/kamper.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: kamper
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/kamper.git
