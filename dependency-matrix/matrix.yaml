@@ -113,3 +113,9 @@ dependencies:
   url: https://github.com/kampfires/51-node-test-deploy.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: a4-labguide-test-overrides-nobuild
+  url: https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git
+  version: ""
+  versionURL: ""

@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: a4-labguide-test-overrides-nobuild
+  name: kampfires-a4-labguide-test-overrides-nobuild
+spec:
+  description: Imported application for kampfires/a4-labguide-test-overrides-nobuild
+  httpCloneURL: https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: a4-labguide-test-overrides-nobuild
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git
