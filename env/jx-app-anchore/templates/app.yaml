@@ -1,0 +1,13 @@
+apiVersion: jenkins.io/v1
+kind: App
+metadata:
+  annotations:
+    jenkins.io/chart-description: The Anchore App for Jenkins X
+    jenkins.io/chart-repository: http://chartmuseum.jenkins-x.io
+  creationTimestamp: null
+  labels:
+    chart: jx-app-anchore-0.0.1
+    jenkins.io/app-name: jx-app-anchore
+    jenkins.io/app-version: 0.0.1
+  name: jx-app-anchore-jx-app-anchore
+spec: {}
