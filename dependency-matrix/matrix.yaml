@@ -119,3 +119,9 @@ dependencies:
   url: https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: LabGuide-installPks
+  url: https://github.com/kampfires/LabGuide-installPks.git
+  version: ""
+  versionURL: ""

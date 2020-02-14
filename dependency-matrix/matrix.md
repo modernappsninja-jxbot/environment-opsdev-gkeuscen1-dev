@@ -22,3 +22,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/41-labguide-test-quickstart](https://github.com/kampfires/41-labguide-test-quickstart.git) |  | []() | 
 [kampfires/51-node-test-deploy](https://github.com/kampfires/51-node-test-deploy.git) |  | []() | 
 [kampfires/a4-labguide-test-overrides-nobuild](https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git) |  | []() | 
+[kampfires/LabGuide-installPks](https://github.com/kampfires/LabGuide-installPks.git) |  | []() | 
