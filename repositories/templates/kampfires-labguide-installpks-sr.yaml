@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: LabGuide-installPks
+  name: kampfires-labguide-installpks
+spec:
+  description: Imported application for kampfires/LabGuide-installPks
+  httpCloneURL: https://github.com/kampfires/LabGuide-installPks.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: LabGuide-installPks
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/LabGuide-installPks.git
