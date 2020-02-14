@@ -131,3 +131,9 @@ dependencies:
   url: https://github.com/kampfires/test-2222.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: kamper
+  url: https://github.com/kampfires/kamper.git
+  version: ""
+  versionURL: ""
