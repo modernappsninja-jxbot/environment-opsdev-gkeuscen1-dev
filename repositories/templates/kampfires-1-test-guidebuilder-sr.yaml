@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: 1-test-guidebuilder
+  name: kampfires-1-test-guidebuilder
+spec:
+  description: Imported application for kampfires/1-test-guidebuilder
+  httpCloneURL: https://github.com/kampfires/1-test-guidebuilder.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: 1-test-guidebuilder
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/1-test-guidebuilder.git
