@@ -95,3 +95,9 @@ dependencies:
   url: https://github.com/kampfires/3test-appserver-docker-helm.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: 1-test-guidebuilder
+  url: https://github.com/kampfires/1-test-guidebuilder.git
+  version: ""
+  versionURL: ""
