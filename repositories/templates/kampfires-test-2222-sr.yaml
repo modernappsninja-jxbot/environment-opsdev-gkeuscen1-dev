@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: test-2222
+  name: kampfires-test-2222
+spec:
+  description: Imported application for kampfires/test-2222
+  httpCloneURL: https://github.com/kampfires/test-2222.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test-2222
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/test-2222.git

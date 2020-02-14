@@ -23,3 +23,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/51-node-test-deploy](https://github.com/kampfires/51-node-test-deploy.git) |  | []() | 
 [kampfires/a4-labguide-test-overrides-nobuild](https://github.com/kampfires/a4-labguide-test-overrides-nobuild.git) |  | []() | 
 [kampfires/LabGuide-installPks](https://github.com/kampfires/LabGuide-installPks.git) |  | []() | 
+[kampfires/test-2222](https://github.com/kampfires/test-2222.git) |  | []() | 
