@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: 51-node-test-deploy
+  name: kampfires-51-node-test-deploy
+spec:
+  description: Imported application for kampfires/51-node-test-deploy
+  httpCloneURL: https://github.com/kampfires/51-node-test-deploy.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: 51-node-test-deploy
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/51-node-test-deploy.git
