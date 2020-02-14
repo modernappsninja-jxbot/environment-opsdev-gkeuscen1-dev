@@ -125,3 +125,9 @@ dependencies:
   url: https://github.com/kampfires/LabGuide-installPks.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: test-2222
+  url: https://github.com/kampfires/test-2222.git
+  version: ""
+  versionURL: ""
