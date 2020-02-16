@@ -24,3 +24,6 @@ dependencies:
 - name: jx-app-anchore
   repository: http://chartmuseum.jenkins-x.io
   version: 0.0.1
+- name: jx-app-gitea
+  repository: http://chartmuseum.jenkins-x.io
+  version: 0.0.2
