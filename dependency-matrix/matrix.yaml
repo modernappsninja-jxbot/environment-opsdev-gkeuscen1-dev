@@ -143,3 +143,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/calmd.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: tkgquickstart-TQ9674
+  url: https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git
+  version: ""
+  versionURL: ""
