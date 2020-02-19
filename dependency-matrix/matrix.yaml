@@ -137,3 +137,9 @@ dependencies:
   url: https://github.com/kampfires/kamper.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: calmd
+  url: https://github.com/ModernAppsNinja/calmd.git
+  version: ""
+  versionURL: ""
