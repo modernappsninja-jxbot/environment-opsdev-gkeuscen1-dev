@@ -25,3 +25,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/LabGuide-installPks](https://github.com/kampfires/LabGuide-installPks.git) |  | []() | 
 [kampfires/test-2222](https://github.com/kampfires/test-2222.git) |  | []() | 
 [kampfires/kamper](https://github.com/kampfires/kamper.git) |  | []() | 
+[ModernAppsNinja/calmd](https://github.com/ModernAppsNinja/calmd.git) |  | []() | 
