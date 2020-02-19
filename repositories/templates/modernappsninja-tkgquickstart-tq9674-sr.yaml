@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: tkgquickstart-TQ9674
+  name: modernappsninja-tkgquickstart-tq9674
+spec:
+  description: Imported application for ModernAppsNinja/tkgquickstart-TQ9674
+  httpCloneURL: https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: tkgquickstart-TQ9674
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git
