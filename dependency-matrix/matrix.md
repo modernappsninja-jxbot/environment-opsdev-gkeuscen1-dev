@@ -27,3 +27,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/kamper](https://github.com/kampfires/kamper.git) |  | []() | 
 [ModernAppsNinja/calmd](https://github.com/ModernAppsNinja/calmd.git) |  | []() | 
 [ModernAppsNinja/tkgquickstart-TQ9674](https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git) |  | []() | 
+[ModernAppsNinja/guidexyz](https://github.com/ModernAppsNinja/guidexyz.git) |  | []() | 

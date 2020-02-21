@@ -149,3 +149,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: guidexyz
+  url: https://github.com/ModernAppsNinja/guidexyz.git
+  version: ""
+  versionURL: ""
