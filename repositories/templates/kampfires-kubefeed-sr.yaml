@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: kubefeed
+  name: kampfires-kubefeed
+spec:
+  description: Imported application for kampfires/kubefeed
+  httpCloneURL: https://github.com/kampfires/kubefeed.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: kubefeed
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/kubefeed.git

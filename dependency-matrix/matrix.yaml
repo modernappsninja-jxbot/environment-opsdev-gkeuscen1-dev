@@ -155,3 +155,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/guidexyz.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: kubefeed
+  url: https://github.com/kampfires/kubefeed.git
+  version: ""
+  versionURL: ""

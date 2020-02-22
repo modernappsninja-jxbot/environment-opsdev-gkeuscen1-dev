@@ -28,3 +28,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/calmd](https://github.com/ModernAppsNinja/calmd.git) |  | []() | 
 [ModernAppsNinja/tkgquickstart-TQ9674](https://github.com/ModernAppsNinja/tkgquickstart-TQ9674.git) |  | []() | 
 [ModernAppsNinja/guidexyz](https://github.com/ModernAppsNinja/guidexyz.git) |  | []() | 
+[kampfires/kubefeed](https://github.com/kampfires/kubefeed.git) |  | []() | 
