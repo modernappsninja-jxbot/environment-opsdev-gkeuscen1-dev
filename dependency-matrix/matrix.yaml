@@ -197,3 +197,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/NsxtInstallForEPMC-LAG-NE4894.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: NsxtConfigForPks-LAG-NC5947
+  url: https://github.com/ModernAppsNinja/NsxtConfigForPks-LAG-NC5947.git
+  version: ""
+  versionURL: ""
