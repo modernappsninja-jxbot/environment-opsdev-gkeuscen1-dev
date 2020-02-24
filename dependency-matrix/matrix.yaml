@@ -215,3 +215,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/capv-quickstart-LAG-CQ3138.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: formio
+  url: https://github.com/kampfires/formio.git
+  version: ""
+  versionURL: ""
