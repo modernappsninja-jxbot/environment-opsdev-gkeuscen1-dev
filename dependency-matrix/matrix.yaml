@@ -185,3 +185,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/PksManualInstallation-LAG-PI1916.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: DeployFirstCluster-LAG-DC1610
+  url: https://github.com/ModernAppsNinja/DeployFirstCluster-LAG-DC1610.git
+  version: ""
+  versionURL: ""
