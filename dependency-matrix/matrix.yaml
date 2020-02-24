@@ -209,3 +209,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/PksInstallEpmc-LAG-PI9606.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: capv-quickstart-LAG-CQ3138
+  url: https://github.com/ModernAppsNinja/capv-quickstart-LAG-CQ3138.git
+  version: ""
+  versionURL: ""
