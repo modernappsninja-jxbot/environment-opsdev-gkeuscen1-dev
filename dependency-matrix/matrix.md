@@ -34,3 +34,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/PksInstallPhase1-LAG-IN3138](https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git) |  | []() | 
 [ModernAppsNinja/PksManualInstallation-LAG-PI1916](https://github.com/ModernAppsNinja/PksManualInstallation-LAG-PI1916.git) |  | []() | 
 [ModernAppsNinja/DeployFirstCluster-LAG-DC1610](https://github.com/ModernAppsNinja/DeployFirstCluster-LAG-DC1610.git) |  | []() | 
+[ModernAppsNinja/NsxtInstallForEPMC-LAG-NE4894](https://github.com/ModernAppsNinja/NsxtInstallForEPMC-LAG-NE4894.git) |  | []() | 
