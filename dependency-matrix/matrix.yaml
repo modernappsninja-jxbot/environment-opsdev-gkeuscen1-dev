@@ -203,3 +203,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/NsxtConfigForPks-LAG-NC5947.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: PksInstallEpmc-LAG-PI9606
+  url: https://github.com/ModernAppsNinja/PksInstallEpmc-LAG-PI9606.git
+  version: ""
+  versionURL: ""
