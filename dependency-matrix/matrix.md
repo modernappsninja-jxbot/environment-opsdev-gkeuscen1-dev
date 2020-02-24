@@ -32,3 +32,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsio/dashboard](https://github.com/modernappsio/dashboard.git) |  | []() | 
 [modernapsio/testguide-1059](https://github.com/modernapsio/testguide-1059.git) |  | []() | 
 [ModernAppsNinja/PksInstallPhase1-LAG-IN3138](https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git) |  | []() | 
+[ModernAppsNinja/PksManualInstallation-LAG-PI1916](https://github.com/ModernAppsNinja/PksManualInstallation-LAG-PI1916.git) |  | []() | 

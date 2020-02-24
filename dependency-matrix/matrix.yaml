@@ -179,3 +179,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: PksManualInstallation-LAG-PI1916
+  url: https://github.com/ModernAppsNinja/PksManualInstallation-LAG-PI1916.git
+  version: ""
+  versionURL: ""
