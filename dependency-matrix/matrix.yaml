@@ -191,3 +191,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/DeployFirstCluster-LAG-DC1610.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: NsxtInstallForEPMC-LAG-NE4894
+  url: https://github.com/ModernAppsNinja/NsxtInstallForEPMC-LAG-NE4894.git
+  version: ""
+  versionURL: ""
