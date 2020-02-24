@@ -167,3 +167,9 @@ dependencies:
   url: https://github.com/modernappsio/dashboard.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernapsio
+  repo: testguide-1059
+  url: https://github.com/modernapsio/testguide-1059.git
+  version: ""
+  versionURL: ""

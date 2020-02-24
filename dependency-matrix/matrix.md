@@ -30,3 +30,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/guidexyz](https://github.com/ModernAppsNinja/guidexyz.git) |  | []() | 
 [kampfires/kubefeed](https://github.com/kampfires/kubefeed.git) |  | []() | 
 [modernappsio/dashboard](https://github.com/modernappsio/dashboard.git) |  | []() | 
+[modernapsio/testguide-1059](https://github.com/modernapsio/testguide-1059.git) |  | []() | 
