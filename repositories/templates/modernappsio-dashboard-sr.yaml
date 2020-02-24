@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsio
+    provider: github
+    repository: dashboard
+  name: modernappsio-dashboard
+spec:
+  description: Imported application for modernappsio/dashboard
+  httpCloneURL: https://github.com/modernappsio/dashboard.git
+  org: modernappsio
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: dashboard
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsio/dashboard.git
