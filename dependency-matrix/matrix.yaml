@@ -161,3 +161,9 @@ dependencies:
   url: https://github.com/kampfires/kubefeed.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsio
+  repo: dashboard
+  url: https://github.com/modernappsio/dashboard.git
+  version: ""
+  versionURL: ""
