@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: PksInstallPhase1-LAG-IN3138
+  name: modernappsninja-pksinstallphase1-lag-in3138
+spec:
+  description: Imported application for ModernAppsNinja/PksInstallPhase1-LAG-IN3138
+  httpCloneURL: https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: PksInstallPhase1-LAG-IN3138
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git

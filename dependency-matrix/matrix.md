@@ -31,3 +31,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/kubefeed](https://github.com/kampfires/kubefeed.git) |  | []() | 
 [modernappsio/dashboard](https://github.com/modernappsio/dashboard.git) |  | []() | 
 [modernapsio/testguide-1059](https://github.com/modernapsio/testguide-1059.git) |  | []() | 
+[ModernAppsNinja/PksInstallPhase1-LAG-IN3138](https://github.com/ModernAppsNinja/PksInstallPhase1-LAG-IN3138.git) |  | []() | 
