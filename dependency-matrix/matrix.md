@@ -39,3 +39,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/PksInstallEpmc-LAG-PI9606](https://github.com/ModernAppsNinja/PksInstallEpmc-LAG-PI9606.git) |  | []() | 
 [ModernAppsNinja/capv-quickstart-LAG-CQ3138](https://github.com/ModernAppsNinja/capv-quickstart-LAG-CQ3138.git) |  | []() | 
 [kampfires/formio](https://github.com/kampfires/formio.git) |  | []() | 
+[kampfires/LabGuide-XYZ-123](https://github.com/kampfires/LabGuide-XYZ-123.git) |  | []() | 
