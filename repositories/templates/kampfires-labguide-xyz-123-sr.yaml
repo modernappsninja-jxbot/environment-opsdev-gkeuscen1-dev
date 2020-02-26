@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: LabGuide-XYZ-123
+  name: kampfires-labguide-xyz-123
+spec:
+  description: Imported application for kampfires/LabGuide-XYZ-123
+  httpCloneURL: https://github.com/kampfires/LabGuide-XYZ-123.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: LabGuide-XYZ-123
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/LabGuide-XYZ-123.git

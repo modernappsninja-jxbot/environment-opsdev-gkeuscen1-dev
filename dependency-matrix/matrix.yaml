@@ -221,3 +221,9 @@ dependencies:
   url: https://github.com/kampfires/formio.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: LabGuide-XYZ-123
+  url: https://github.com/kampfires/LabGuide-XYZ-123.git
+  version: ""
+  versionURL: ""
