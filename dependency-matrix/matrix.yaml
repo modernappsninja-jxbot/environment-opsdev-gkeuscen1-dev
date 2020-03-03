@@ -239,3 +239,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcAccessPolicies_LAG-AP2456.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TmcFleetDiagnostics_LAG-FD4968
+  url: https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git
+  version: ""
+  versionURL: ""

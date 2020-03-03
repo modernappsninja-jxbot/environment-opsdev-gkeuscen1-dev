@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: TmcFleetDiagnostics_LAG-FD4968
+  name: modernappsninja-tmcfleetdiagnostics-lag-fd4968
+spec:
+  description: Imported application for ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968
+  httpCloneURL: https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: TmcFleetDiagnostics_LAG-FD4968
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git

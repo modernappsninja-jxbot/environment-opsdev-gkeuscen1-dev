@@ -42,3 +42,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/LabGuide-XYZ-123](https://github.com/kampfires/LabGuide-XYZ-123.git) |  | []() | 
 [ModernAppsNinja/TmcAttachNamespace_LAG-AN7016](https://github.com/ModernAppsNinja/TmcAttachNamespace_LAG-AN7016.git) |  | []() | 
 [ModernAppsNinja/TmcAccessPolicies_LAG-AP2456](https://github.com/ModernAppsNinja/TmcAccessPolicies_LAG-AP2456.git) |  | []() | 
+[ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968](https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git) |  | []() | 
