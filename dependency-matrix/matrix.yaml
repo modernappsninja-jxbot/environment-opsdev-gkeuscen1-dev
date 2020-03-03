@@ -245,3 +245,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TmcImagePolicies_LAG-IP9099
+  url: https://github.com/ModernAppsNinja/TmcImagePolicies_LAG-IP9099.git
+  version: ""
+  versionURL: ""
