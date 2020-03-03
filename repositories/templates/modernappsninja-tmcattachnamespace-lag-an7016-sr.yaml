@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: TmcAttachNamespace_LAG-AN7016
+  name: modernappsninja-tmcattachnamespace-lag-an7016
+spec:
+  description: Imported application for ModernAppsNinja/TmcAttachNamespace_LAG-AN7016
+  httpCloneURL: https://github.com/ModernAppsNinja/TmcAttachNamespace_LAG-AN7016.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: TmcAttachNamespace_LAG-AN7016
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/TmcAttachNamespace_LAG-AN7016.git
