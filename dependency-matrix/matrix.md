@@ -44,3 +44,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/TmcAccessPolicies_LAG-AP2456](https://github.com/ModernAppsNinja/TmcAccessPolicies_LAG-AP2456.git) |  | []() | 
 [ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968](https://github.com/ModernAppsNinja/TmcFleetDiagnostics_LAG-FD4968.git) |  | []() | 
 [ModernAppsNinja/TmcImagePolicies_LAG-IP9099](https://github.com/ModernAppsNinja/TmcImagePolicies_LAG-IP9099.git) |  | []() | 
+[ModernAppsNinja/TmcConformanceInspections_LAG-CI4490](https://github.com/ModernAppsNinja/TmcConformanceInspections_LAG-CI4490.git) |  | []() | 
