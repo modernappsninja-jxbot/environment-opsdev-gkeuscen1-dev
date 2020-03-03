@@ -251,3 +251,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcImagePolicies_LAG-IP9099.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TmcConformanceInspections_LAG-CI4490
+  url: https://github.com/ModernAppsNinja/TmcConformanceInspections_LAG-CI4490.git
+  version: ""
+  versionURL: ""
