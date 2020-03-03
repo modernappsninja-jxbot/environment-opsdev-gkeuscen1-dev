@@ -257,3 +257,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcConformanceInspections_LAG-CI4490.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TmcNetworkPolicy_LAG-NP6482
+  url: https://github.com/ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482.git
+  version: ""
+  versionURL: ""
