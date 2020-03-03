@@ -233,3 +233,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcAttachNamespace_LAG-AN7016.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TmcAccessPolicies_LAG-AP2456
+  url: https://github.com/ModernAppsNinja/TmcAccessPolicies_LAG-AP2456.git
+  version: ""
+  versionURL: ""
