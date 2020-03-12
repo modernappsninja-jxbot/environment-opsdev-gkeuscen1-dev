@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: Labguid112233
+  name: modernappsninja-labguid112233
+spec:
+  description: Imported application for ModernAppsNinja/Labguid112233
+  httpCloneURL: https://github.com/ModernAppsNinja/Labguid112233.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: Labguid112233
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/Labguid112233.git
