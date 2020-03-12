@@ -46,3 +46,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/TmcImagePolicies_LAG-IP9099](https://github.com/ModernAppsNinja/TmcImagePolicies_LAG-IP9099.git) |  | []() | 
 [ModernAppsNinja/TmcConformanceInspections_LAG-CI4490](https://github.com/ModernAppsNinja/TmcConformanceInspections_LAG-CI4490.git) |  | []() | 
 [ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482](https://github.com/ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482.git) |  | []() | 
+[ModernAppsNinja/Labguid112233](https://github.com/ModernAppsNinja/Labguid112233.git) |  | []() | 

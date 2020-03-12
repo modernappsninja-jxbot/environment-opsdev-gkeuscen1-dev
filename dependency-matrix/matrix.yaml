@@ -263,3 +263,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: Labguid112233
+  url: https://github.com/ModernAppsNinja/Labguid112233.git
+  version: ""
+  versionURL: ""
