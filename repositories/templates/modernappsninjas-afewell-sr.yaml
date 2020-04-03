@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: afewell
+  name: modernappsninjas-afewell
+spec:
+  description: Imported application for modernappsninjas/afewell
+  httpCloneURL: https://github.com/modernappsninjas/afewell.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: afewell
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/afewell.git
