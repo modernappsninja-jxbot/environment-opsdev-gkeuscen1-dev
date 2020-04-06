@@ -50,3 +50,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/afewell](https://github.com/modernappsninjas/afewell.git) |  | []() | 
 [ModernAppsNinja/verify](https://github.com/ModernAppsNinja/verify.git) |  | []() | 
 [ModernAppsNinja/dojo](https://github.com/ModernAppsNinja/dojo.git) |  | []() | 
+[ModernAppsNinja/ContributorRepo_CR2439](https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git) |  | []() | 

@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: ContributorRepo_CR2439
+  name: modernappsninja-contributorrepo-cr2439
+spec:
+  description: Imported application for ModernAppsNinja/ContributorRepo_CR2439
+  httpCloneURL: https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: ContributorRepo_CR2439
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git
