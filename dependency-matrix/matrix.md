@@ -48,3 +48,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482](https://github.com/ModernAppsNinja/TmcNetworkPolicy_LAG-NP6482.git) |  | []() | 
 [ModernAppsNinja/Labguid112233](https://github.com/ModernAppsNinja/Labguid112233.git) |  | []() | 
 [modernappsninjas/afewell](https://github.com/modernappsninjas/afewell.git) |  | []() | 
+[ModernAppsNinja/verify](https://github.com/ModernAppsNinja/verify.git) |  | []() | 

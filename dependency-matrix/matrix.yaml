@@ -275,3 +275,9 @@ dependencies:
   url: https://github.com/modernappsninjas/afewell.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: verify
+  url: https://github.com/ModernAppsNinja/verify.git
+  version: ""
+  versionURL: ""

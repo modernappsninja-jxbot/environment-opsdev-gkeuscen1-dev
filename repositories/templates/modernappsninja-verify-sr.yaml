@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: verify
+  name: modernappsninja-verify
+spec:
+  description: Imported application for ModernAppsNinja/verify
+  httpCloneURL: https://github.com/ModernAppsNinja/verify.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: verify
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/verify.git
