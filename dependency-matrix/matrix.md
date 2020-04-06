@@ -49,3 +49,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/Labguid112233](https://github.com/ModernAppsNinja/Labguid112233.git) |  | []() | 
 [modernappsninjas/afewell](https://github.com/modernappsninjas/afewell.git) |  | []() | 
 [ModernAppsNinja/verify](https://github.com/ModernAppsNinja/verify.git) |  | []() | 
+[ModernAppsNinja/dojo](https://github.com/ModernAppsNinja/dojo.git) |  | []() | 
