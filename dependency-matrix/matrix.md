@@ -52,3 +52,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/dojo](https://github.com/ModernAppsNinja/dojo.git) |  | []() | 
 [ModernAppsNinja/ContributorRepo_CR2439](https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git) |  | []() | 
 [kampfires/sample-spring-boot-http-gradle](https://github.com/kampfires/sample-spring-boot-http-gradle.git) |  | []() | 
+[modernappsninjas/Oni-no-Hanzo](https://github.com/modernappsninjas/Oni-no-Hanzo.git) |  | []() | 
