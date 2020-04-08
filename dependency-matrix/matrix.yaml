@@ -299,3 +299,9 @@ dependencies:
   url: https://github.com/kampfires/sample-spring-boot-http-gradle.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: Oni-no-Hanzo
+  url: https://github.com/modernappsninjas/Oni-no-Hanzo.git
+  version: ""
+  versionURL: ""
