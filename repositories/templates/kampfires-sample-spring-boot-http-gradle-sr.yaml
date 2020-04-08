@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: kampfires
+    provider: github
+    repository: sample-spring-boot-http-gradle
+  name: kampfires-sample-spring-boot-http-gradle
+spec:
+  description: Imported application for kampfires/sample-spring-boot-http-gradle
+  httpCloneURL: https://github.com/kampfires/sample-spring-boot-http-gradle.git
+  org: kampfires
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: sample-spring-boot-http-gradle
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/kampfires/sample-spring-boot-http-gradle.git

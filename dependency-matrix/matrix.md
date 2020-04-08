@@ -51,3 +51,4 @@ Dependency | Sources | Version | Mismatched versions
 [ModernAppsNinja/verify](https://github.com/ModernAppsNinja/verify.git) |  | []() | 
 [ModernAppsNinja/dojo](https://github.com/ModernAppsNinja/dojo.git) |  | []() | 
 [ModernAppsNinja/ContributorRepo_CR2439](https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git) |  | []() | 
+[kampfires/sample-spring-boot-http-gradle](https://github.com/kampfires/sample-spring-boot-http-gradle.git) |  | []() | 

@@ -293,3 +293,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/ContributorRepo_CR2439.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: kampfires
+  repo: sample-spring-boot-http-gradle
+  url: https://github.com/kampfires/sample-spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
