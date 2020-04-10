@@ -1,6 +1,11 @@
 apiVersion: jenkins.io/v1
 kind: SourceRepository
 metadata:
+  annotations:
+    jenkins.io/last-build-number-for-master: "7"
+    jenkins.io/last-build-number-for-pr-3: "1"
+    jenkins.io/last-build-number-for-pr-4: "1"
+    jenkins.io/last-build-number-for-pr-5: "1"
   creationTimestamp: null
   labels:
     owner: modernappsninjas
