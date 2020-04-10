@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: ChrisM-Git
+  name: modernappsninjas-chrism-git
+spec:
+  description: Imported application for modernappsninjas/ChrisM-Git
+  httpCloneURL: https://github.com/modernappsninjas/ChrisM-Git.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: ChrisM-Git
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/ChrisM-Git.git
