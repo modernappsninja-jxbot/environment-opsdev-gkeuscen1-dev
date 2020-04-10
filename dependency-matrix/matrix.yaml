@@ -305,3 +305,9 @@ dependencies:
   url: https://github.com/modernappsninjas/Oni-no-Hanzo.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: khbrady
+  url: https://github.com/modernappsninjas/khbrady.git
+  version: ""
+  versionURL: ""

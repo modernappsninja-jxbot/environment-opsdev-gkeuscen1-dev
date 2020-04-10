@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: khbrady
+  name: modernappsninjas-khbrady
+spec:
+  description: Imported application for modernappsninjas/khbrady
+  httpCloneURL: https://github.com/modernappsninjas/khbrady.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: khbrady
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/khbrady.git
