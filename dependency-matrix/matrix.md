@@ -54,3 +54,4 @@ Dependency | Sources | Version | Mismatched versions
 [kampfires/sample-spring-boot-http-gradle](https://github.com/kampfires/sample-spring-boot-http-gradle.git) |  | []() | 
 [modernappsninjas/Oni-no-Hanzo](https://github.com/modernappsninjas/Oni-no-Hanzo.git) |  | []() | 
 [modernappsninjas/khbrady](https://github.com/modernappsninjas/khbrady.git) |  | []() | 
+[modernappsninjas/ChrisM-Git](https://github.com/modernappsninjas/ChrisM-Git.git) |  | []() | 
