@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: pegeaton
+  name: modernappsninjas-pegeaton
+spec:
+  description: Imported application for modernappsninjas/pegeaton
+  httpCloneURL: https://github.com/modernappsninjas/pegeaton.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: pegeaton
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/pegeaton.git
