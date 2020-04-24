@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: mfleisher
+  name: modernappsninjas-mfleisher
+spec:
+  description: Imported application for modernappsninjas/mfleisher
+  httpCloneURL: https://github.com/modernappsninjas/mfleisher.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: mfleisher
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/mfleisher.git

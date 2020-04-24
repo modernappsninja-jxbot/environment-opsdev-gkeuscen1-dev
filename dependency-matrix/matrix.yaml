@@ -359,3 +359,9 @@ dependencies:
   url: https://github.com/modernappsninjas/zahoor9.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: mfleisher
+  url: https://github.com/modernappsninjas/mfleisher.git
+  version: ""
+  versionURL: ""
