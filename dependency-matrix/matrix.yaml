@@ -365,3 +365,9 @@ dependencies:
   url: https://github.com/modernappsninjas/mfleisher.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: dojo
+  url: https://github.com/modernappsninjas/dojo.git
+  version: ""
+  versionURL: ""

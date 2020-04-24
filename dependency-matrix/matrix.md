@@ -63,3 +63,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/everthingeverywhere](https://github.com/modernappsninjas/everthingeverywhere.git) |  | []() | 
 [modernappsninjas/zahoor9](https://github.com/modernappsninjas/zahoor9.git) |  | []() | 
 [modernappsninjas/mfleisher](https://github.com/modernappsninjas/mfleisher.git) |  | []() | 
+[modernappsninjas/dojo](https://github.com/modernappsninjas/dojo.git) |  | []() | 

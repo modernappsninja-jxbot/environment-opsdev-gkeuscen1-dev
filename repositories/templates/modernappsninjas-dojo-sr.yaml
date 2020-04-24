@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: dojo
+  name: modernappsninjas-dojo
+spec:
+  description: Imported application for modernappsninjas/dojo
+  httpCloneURL: https://github.com/modernappsninjas/dojo.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: dojo
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/dojo.git
