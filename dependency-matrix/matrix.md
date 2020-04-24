@@ -55,3 +55,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/Oni-no-Hanzo](https://github.com/modernappsninjas/Oni-no-Hanzo.git) |  | []() | 
 [modernappsninjas/khbrady](https://github.com/modernappsninjas/khbrady.git) |  | []() | 
 [modernappsninjas/ChrisM-Git](https://github.com/modernappsninjas/ChrisM-Git.git) |  | []() | 
+[modernappsninjas/abidlen](https://github.com/modernappsninjas/abidlen.git) |  | []() | 
