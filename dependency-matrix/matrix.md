@@ -56,3 +56,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/khbrady](https://github.com/modernappsninjas/khbrady.git) |  | []() | 
 [modernappsninjas/ChrisM-Git](https://github.com/modernappsninjas/ChrisM-Git.git) |  | []() | 
 [modernappsninjas/abidlen](https://github.com/modernappsninjas/abidlen.git) |  | []() | 
+[modernappsninjas/sverbist0908](https://github.com/modernappsninjas/sverbist0908.git) |  | []() | 
