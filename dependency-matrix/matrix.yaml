@@ -347,3 +347,9 @@ dependencies:
   url: https://github.com/modernappsninjas/jayonthenet.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: everthingeverywhere
+  url: https://github.com/modernappsninjas/everthingeverywhere.git
+  version: ""
+  versionURL: ""
