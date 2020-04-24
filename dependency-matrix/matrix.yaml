@@ -317,3 +317,9 @@ dependencies:
   url: https://github.com/modernappsninjas/ChrisM-Git.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: abidlen
+  url: https://github.com/modernappsninjas/abidlen.git
+  version: ""
+  versionURL: ""
