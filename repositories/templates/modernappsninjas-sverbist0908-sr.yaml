@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: sverbist0908
+  name: modernappsninjas-sverbist0908
+spec:
+  description: Imported application for modernappsninjas/sverbist0908
+  httpCloneURL: https://github.com/modernappsninjas/sverbist0908.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: sverbist0908
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/sverbist0908.git

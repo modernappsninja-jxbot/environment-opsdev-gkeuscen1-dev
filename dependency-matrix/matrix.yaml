@@ -323,3 +323,9 @@ dependencies:
   url: https://github.com/modernappsninjas/abidlen.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: sverbist0908
+  url: https://github.com/modernappsninjas/sverbist0908.git
+  version: ""
+  versionURL: ""
