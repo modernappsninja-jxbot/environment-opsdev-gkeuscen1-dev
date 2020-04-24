@@ -59,3 +59,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/sverbist0908](https://github.com/modernappsninjas/sverbist0908.git) |  | []() | 
 [modernappsninjas/davemazur](https://github.com/modernappsninjas/davemazur.git) |  | []() | 
 [modernappsninjas/pegeaton](https://github.com/modernappsninjas/pegeaton.git) |  | []() | 
+[modernappsninjas/jayonthenet](https://github.com/modernappsninjas/jayonthenet.git) |  | []() | 

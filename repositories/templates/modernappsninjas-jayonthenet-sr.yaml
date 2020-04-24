@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: jayonthenet
+  name: modernappsninjas-jayonthenet
+spec:
+  description: Imported application for modernappsninjas/jayonthenet
+  httpCloneURL: https://github.com/modernappsninjas/jayonthenet.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jayonthenet
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/jayonthenet.git

@@ -341,3 +341,9 @@ dependencies:
   url: https://github.com/modernappsninjas/pegeaton.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: jayonthenet
+  url: https://github.com/modernappsninjas/jayonthenet.git
+  version: ""
+  versionURL: ""
