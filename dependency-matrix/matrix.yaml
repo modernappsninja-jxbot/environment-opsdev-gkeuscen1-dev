@@ -371,3 +371,9 @@ dependencies:
   url: https://github.com/modernappsninjas/dojo.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: ramantheman
+  url: https://github.com/modernappsninjas/ramantheman.git
+  version: ""
+  versionURL: ""
