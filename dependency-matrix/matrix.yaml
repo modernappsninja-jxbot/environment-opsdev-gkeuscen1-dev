@@ -335,3 +335,9 @@ dependencies:
   url: https://github.com/modernappsninjas/davemazur.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: pegeaton
+  url: https://github.com/modernappsninjas/pegeaton.git
+  version: ""
+  versionURL: ""
