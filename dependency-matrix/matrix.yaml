@@ -353,3 +353,9 @@ dependencies:
   url: https://github.com/modernappsninjas/everthingeverywhere.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: zahoor9
+  url: https://github.com/modernappsninjas/zahoor9.git
+  version: ""
+  versionURL: ""
