@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: davemazur
+  name: modernappsninjas-davemazur
+spec:
+  description: Imported application for modernappsninjas/davemazur
+  httpCloneURL: https://github.com/modernappsninjas/davemazur.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: davemazur
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/davemazur.git

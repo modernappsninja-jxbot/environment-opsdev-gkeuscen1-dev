@@ -329,3 +329,9 @@ dependencies:
   url: https://github.com/modernappsninjas/sverbist0908.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: modernappsninjas
+  repo: davemazur
+  url: https://github.com/modernappsninjas/davemazur.git
+  version: ""
+  versionURL: ""
