@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: modernappsninjas
+    provider: github
+    repository: everthingeverywhere
+  name: modernappsninjas-everthingeverywhere
+spec:
+  description: Imported application for modernappsninjas/everthingeverywhere
+  httpCloneURL: https://github.com/modernappsninjas/everthingeverywhere.git
+  org: modernappsninjas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: everthingeverywhere
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/modernappsninjas/everthingeverywhere.git

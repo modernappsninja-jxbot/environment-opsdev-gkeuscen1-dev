@@ -60,3 +60,4 @@ Dependency | Sources | Version | Mismatched versions
 [modernappsninjas/davemazur](https://github.com/modernappsninjas/davemazur.git) |  | []() | 
 [modernappsninjas/pegeaton](https://github.com/modernappsninjas/pegeaton.git) |  | []() | 
 [modernappsninjas/jayonthenet](https://github.com/modernappsninjas/jayonthenet.git) |  | []() | 
+[modernappsninjas/everthingeverywhere](https://github.com/modernappsninjas/everthingeverywhere.git) |  | []() | 
