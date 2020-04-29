@@ -377,3 +377,9 @@ dependencies:
   url: https://github.com/modernappsninjas/ramantheman.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: TkgPocTestPlan_TP6361
+  url: https://github.com/ModernAppsNinja/TkgPocTestPlan_TP6361.git
+  version: ""
+  versionURL: ""
