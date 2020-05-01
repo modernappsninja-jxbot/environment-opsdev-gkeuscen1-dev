@@ -383,3 +383,9 @@ dependencies:
   url: https://github.com/ModernAppsNinja/TkgPocTestPlan_TP6361.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ModernAppsNinja
+  repo: Nsxt2-5-1ManualInstall_NM4894
+  url: https://github.com/ModernAppsNinja/Nsxt2-5-1ManualInstall_NM4894.git
+  version: ""
+  versionURL: ""

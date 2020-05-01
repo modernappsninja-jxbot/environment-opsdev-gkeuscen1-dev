@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ModernAppsNinja
+    provider: github
+    repository: Nsxt2-5-1ManualInstall_NM4894
+  name: modernappsninja-nsxt2-5-1manualinstall-nm4894
+spec:
+  description: Imported application for ModernAppsNinja/Nsxt2-5-1ManualInstall_NM4894
+  httpCloneURL: https://github.com/ModernAppsNinja/Nsxt2-5-1ManualInstall_NM4894.git
+  org: ModernAppsNinja
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: Nsxt2-5-1ManualInstall_NM4894
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ModernAppsNinja/Nsxt2-5-1ManualInstall_NM4894.git
